@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="food-library:war">
+    <output-path>$PROJECT_DIR$/food-library/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>food-library</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="food-library-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="food-library:war exploded" />
+    </root>
+  </artifact>
+</component>
