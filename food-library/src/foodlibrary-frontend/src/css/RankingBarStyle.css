@@ -1,0 +1,19 @@
+.rankingButton {
+    border-color: #a6d149;
+    background-color: #a6d149;
+    color: white;
+    font-family: 'Cafe24Oneprettynight';
+    font-weight: bold;
+}
+
+.rankingToggle {
+    width: 300px;
+    color: #8b8b8b;
+    border-color: #a6d149;
+    text-align: left;
+}
+
+.rankingMenu {
+    width: 300px;
+    color: #8b8b8b;
+}
