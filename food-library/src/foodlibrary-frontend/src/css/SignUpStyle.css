@@ -1,0 +1,36 @@
+#subLogoImage {
+    width: 90px;
+    padding-right: 20px;
+}
+
+.subTitleAndLogo {
+    margin-top: 10px;
+    font-family: Cafe24Oneprettynight;
+    color: #a6d149;
+    font-size: 60px;
+    position: absolute;
+    left: 41%;
+    display: inline-flex;
+}
+
+.signUpTitle {
+    color: #a6d149;
+    font-family: Cafe24Oneprettynight;
+    font-size: 50px;
+    padding-top: 120px;
+    padding-bottom: 40px;
+    position: absolute;
+    left: 46%;
+    letter-spacing: 10px;
+}
+
+.signUpText {
+    color: #8b8b8b;
+    font-family: Cafe24Oneprettynight;
+    padding-top: 200px;
+    position:absolute;
+    left: 45%;
+    font-size: 20px;
+    letter-spacing: 4px;
+    font-weight: bold;
+}
