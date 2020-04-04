@@ -1,0 +1,51 @@
+#editMemberPageTitle {
+    font-size: 70px;
+    font-family: 'Cafe24Oneprettynight';
+    color: #a6d149;
+    padding-left: 700px;
+    padding-bottom: 40px;
+}
+
+#lineFull {
+    width : 100%;
+    margin-top: -50px;
+    border: 2px solid rgba(166,209,73,0.70);
+    float: right;
+    z-index: 1;
+}
+
+FormGroup {
+    vertical-align: center;
+    text-align: center;
+    border: 1px solid #a6d149;
+}
+
+#editMemberForm {
+    margin-top: 50px;
+    margin-left: 600px;
+    margin-right: 600px;
+    color: #8b8b8b;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Cafe24Oneprettynight;
+}
+
+
+.editMemberInfoArea {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 30%;
+}
+
+.editMemberInfoFormButton {
+    width: 300px;
+    height: 50px;
+    border-radius: 25px;
+    border-color: #a6d149;
+    background-color: #a6d149;
+    color: white;
+    font-family: Cafe24Oneprettynight;
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 5px;
+}
