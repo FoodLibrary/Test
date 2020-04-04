@@ -1,0 +1,59 @@
+.productList {
+    float: left;
+    font-family: 'Cafe24Oneprettynight';
+    width: 100%;
+}
+.index {
+    padding-top: 15px;
+    padding-right: 20px;
+    text-align: right;
+}
+
+.indexAndButtons {
+    width: 140px;
+    padding-top: 0px;
+    float: left;
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: 45px;
+}
+
+.heartAndThumbImages {
+    width: 70px;
+    height: 70px;
+}
+
+.heart {
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.thumb {
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.indexAndButtons {
+    width: 140px;
+    padding-top: 0px;
+    float: left;
+}
+
+.foodPictureArea {
+    width: 240px;
+    height: 240px;
+    margin-left: 10px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    border: 2px solid #a6d149;
+    float: left;
+}
+
+.foodInfoArea {
+    width: 1000px;
+    height: 240px;
+    margin-left:40px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    border: 2px solid #a6d149;
+    float: left;
+}
