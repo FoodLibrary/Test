@@ -1,0 +1,74 @@
+.allergyCheck {
+    margin-left: 280px;
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: 'Cafe24Oneprettynight';
+    font-weight: bold;
+}
+
+.allergy{
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+.allergyNames {
+    padding-left: 5px;
+    font-weight: normal;
+}
+
+.secondRow {
+    margin-left: 115px;
+    margin-top: -30px;
+}
+
+.diseaseCheck {
+    margin-left: 330px;
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: 'Cafe24Oneprettynight';
+    font-weight: bold;
+}
+
+.disease {
+    padding-left: 49px;
+    font-size: 20px;
+}
+
+.diseaseNames {
+    padding-left: 5px;
+    font-weight: normal;
+}
+
+#filteringButtons {
+    padding-left : -40px;
+    margin-top: 30px;
+}
+
+#clearButtonArea {
+    padding-left: 1500px;
+}
+
+.clearButton {
+    padding: 10px 20px 10px 20px;
+    font-family: 'Cafe24Oneprettynight';
+    border-radius: 25px;
+    background-color: #8b8b8b;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#saveButtonArea {
+    padding-left: 10px;
+}
+
+.saveButton {
+    padding: 10px 22px 10px 24px;
+    font-family: 'Cafe24Oneprettynight';
+    border-radius: 25px;
+    background-color: #8b8b8b;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
