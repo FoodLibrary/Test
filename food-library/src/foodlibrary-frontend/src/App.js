@@ -16,7 +16,7 @@ import EditMemberInfo from "./js/EditMemberInfo";
 function App() {
     return (
         <div>
-            <EditMemberInfo/>
+            <SignUp/>
         </div>
 
 );

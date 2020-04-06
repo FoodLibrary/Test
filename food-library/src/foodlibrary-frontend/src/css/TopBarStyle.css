@@ -2,71 +2,76 @@
 .topBar {
      width: 100%;
      display: inline-flex;
-     padding-top: 20px;
+     padding-top: 1vh;
  }
 
 #title {
     position: relative;
     font-family: 'Cafe24Oneprettynight';
-    font-size: 2vw;
-    max-width: 21rem;
-    min-width: 21rem;
-    max-height: 2rem;
+    font-size: 4vw;
+    max-width: 40vw;
+    min-width: 18vw;
+    max-height: 2vw;
     min-height: 50px;
     color: #a6d149;
+    padding-top: 1%;
 }
 
 #logoImg {
     width: 100%;
-    padding: 10% 10% 20% 20%;
+    padding: 30% 10% 0% 20%;
     vertical-align: center;
-    max-width: 100px;
-    max-height: 100px;
-    min-width: 40px;
-    min-height: 40px;
+    max-width: 10vw;
+    max-height: 10vh;
+    min-width: 6vw;
+    min-height: 6vw;
     height: auto;
 }
 
 #categoryImg {
     width: 100%;
     vertical-align: center;
-    max-width: 80px;
-    max-height: 1800px;
-    min-width: 30px;
-    min-height: 30px;
-    height: auto;
-    padding : 20% 5% 10% 25%;
+    max-width: 10vw;
+    max-height: 10vh;
+    min-width: 5vw;
+    min-height: 5vw;
+    padding : 42% 5% 0% 25%;
 }
 
 #searchTextInput {
-    position: absolute;
-    width: 500px;
-    height: 3rem;
-    border: solid 3px rgba(166, 209, 73, 0.75);
+    height: 100%;
+    font-size: 1vw;
+    max-width: 80vw;
+    min-width: 30vw;
+    max-height: 25vw;
+    min-height: 3vw;
+    height: auto;
+    border: solid 1px rgba(166, 209, 73, 0.75);
     background-color: rgba(166, 209, 255, 0);
-    font-size: 13px;
     font-family: 'Cafe24Oneprettynight';
     text-indent: 5px;
-    outline: none;
 }
 
 #searchArea {
-    padding : 25px 10px 20px 0.7rem;
+    padding-top: 2vw;
 }
 
 #searchButton {
-    position: absolute;
-    width: 3rem;
-    height: 3rem;
-    border: solid 3px rgba(166, 209, 73, 0.75);
+    max-width: 10vw;
+    min-width: 4vw;
+    max-height: 10vw;
+    min-height: 4vw;
+    height: auto;
+    border: solid 1px rgba(166, 209, 73, 0.75);
     background-color: rgba(166, 209, 255, 0);
     outline: none;
     padding: 3px 4px 4px 4px ;
 }
 
 #searchButtonArea {
-    padding-top: 25px;
-    padding-left: 31rem;
+    width: 100%;
+    padding-top: 2vw;
+    padding-left: 1.5vw;
 }
 
 #rankingToggle {
