@@ -1,119 +1,79 @@
-
-.topBar {
-     width: 100%;
-     display: inline-flex;
-     padding-top: 1vh;
- }
-
-#title {
-    position: relative;
-    font-family: 'Cafe24Oneprettynight';
-    font-size: 4vw;
-    max-width: 40vw;
-    min-width: 18vw;
-    max-height: 2vw;
-    min-height: 50px;
+#topBar {
+    font-family: Cafe24Oneprettynight;
     color: #a6d149;
-    padding-top: 1%;
 }
 
 #logoImg {
-    width: 100%;
-    padding: 30% 10% 0% 20%;
-    vertical-align: center;
-    max-width: 10vw;
-    max-height: 10vh;
-    min-width: 6vw;
-    min-height: 6vw;
-    height: auto;
+    padding-bottom: 0.5vh;
+    padding-right: 0.5vh;
+
+    padding-left: 1vh;
+    max-width: 6vh;
+    max-height: 6vh;
+    min-width: 5vh;
+    min-height: 5vh;
 }
 
-#categoryImg {
-    width: 100%;
-    vertical-align: center;
-    max-width: 10vw;
-    max-height: 10vh;
-    min-width: 5vw;
-    min-height: 5vw;
-    padding : 42% 5% 0% 25%;
+
+#title {
+    font-size: 3.5vh;
+    color: #a6d149 ;
+    font-family: Cafe24Oneprettynight;
 }
 
-#searchTextInput {
-    height: 100%;
-    font-size: 1vw;
-    max-width: 80vw;
-    min-width: 30vw;
-    max-height: 25vw;
-    min-height: 3vw;
-    height: auto;
-    border: solid 1px rgba(166, 209, 73, 0.75);
-    background-color: rgba(166, 209, 255, 0);
-    font-family: 'Cafe24Oneprettynight';
-    text-indent: 5px;
+.categoryImgArea {
+    padding-bottom: 1vh;
+    padding-right: 1vh;
+    max-width: 4vh;
+    max-height: 4vh;
+    background-color: #fffde5;
+    border: #fffde5;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    outline: none;
 }
 
-#searchArea {
-    padding-top: 2vw;
+.categoryImgArea:focus{
+    outline: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+.categoryImgArea:active {
+
+    outline: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+.searchButton {
+    background-color: #fffde5;
+    border: 1px solid #a6d149;
+}
+
+.searchButton:hover {
+    background-color: #a6d149;
+    border: 1px solid #a6d149;
 }
 
 #searchButton {
-    max-width: 10vw;
-    min-width: 4vw;
-    max-height: 10vw;
-    min-height: 4vw;
-    height: auto;
-    border: solid 1px rgba(166, 209, 73, 0.75);
-    background-color: rgba(166, 209, 255, 0);
-    outline: none;
-    padding: 3px 4px 4px 4px ;
+    max-width: 2vh;
+    max-height: 2vh;
 }
 
-#searchButtonArea {
-    width: 100%;
-    padding-top: 2vw;
-    padding-left: 1.5vw;
+#searchArea {
+    border: 1px solid #a6d149;
+    background-color: #fffde5;
+    max-width: 30vw;
+    min-width: 30vw;
+    font-family: Cafe24Oneprettynight;
 }
 
-#rankingToggle {
-    padding-top: 20px;
-    padding-left: 21rem;
-}
-
-.loginButton {
-    position: absolute;
-    height: 50px;
-    width: 200px;
-    background-color: #a6d149;
-    border-color: #a6d149;
-    color: white;
-    font-weight: bold;
-    font-family: 'Cafe24Oneprettynight';
-    letter-spacing: 10px;
-    padding-left: 25px;
-    font-size: 28px;
-    border-radius: 20px;
-}
-
-#loginButtonArea {
-    padding-left: 2rem;
-    padding-top: 15px;
-}
-
-#myPageButtonArea {
-    width: 80px;
-    height: 80px;
-    align-items: center;
-    padding-right: 50px;
-    padding-left: 14rem;
-    padding-top: 5px;
-}
-
-#myPageButton {
-    position: absolute;
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    border: solid 4px #a6d149;
+@media (max-width:500px) {
+    #searchArea {
+        display: none;
+    }
 }
 
 
+
+.search {
+    max-width: 40vw;
+}

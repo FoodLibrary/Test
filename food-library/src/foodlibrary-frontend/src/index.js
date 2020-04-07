@@ -3,9 +3,10 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import 'reactstrap'
 import * as serviceWorker from './serviceWorker';
+import TopBar from "./js/TopBar";
 ReactDOM.render(
 <React.StrictMode>
-<App/>
+<TopBar/>
 </React.StrictMode>,
 document.getElementById('root')
 );
