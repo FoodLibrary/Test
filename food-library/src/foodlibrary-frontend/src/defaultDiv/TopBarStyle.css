@@ -1,0 +1,114 @@
+
+.topBar {
+     width: 100%;
+     display: inline-flex;
+     padding-top: 20px;
+ }
+
+#title {
+    position: relative;
+    font-family: 'Cafe24Oneprettynight', cursive;
+    font-size: 2vw;
+    max-width: 21rem;
+    min-width: 21rem;
+    max-height: 2rem;
+    min-height: 50px;
+    color: #a6d149;
+}
+
+#logoImg {
+    width: 100%;
+    padding: 10% 10% 20% 20%;
+    vertical-align: center;
+    max-width: 100px;
+    max-height: 100px;
+    min-width: 40px;
+    min-height: 40px;
+    height: auto;
+}
+
+#categoryImg {
+    width: 100%;
+    vertical-align: center;
+    max-width: 80px;
+    max-height: 1800px;
+    min-width: 30px;
+    min-height: 30px;
+    height: auto;
+    padding : 20% 5% 10% 25%;
+}
+
+#searchTextInput {
+    position: absolute;
+    width: 500px;
+    height: 3rem;
+    border: solid 3px rgba(166, 209, 73, 0.75);
+    background-color: rgba(166, 209, 255, 0);
+    font-size: 13px;
+    font-family: 'Cafe24Oneprettynight';
+    text-indent: 5px;
+    outline: none;
+}
+
+#searchArea {
+    padding : 25px 10px 20px 0.7rem;
+}
+
+#searchButton {
+    position: absolute;
+    width: 3rem;
+    height: 3rem;
+    border: solid 3px rgba(166, 209, 73, 0.75);
+    background-color: rgba(166, 209, 255, 0);
+    outline: none;
+    padding: 3px 4px 4px 4px ;
+}
+
+#searchButtonArea {
+    padding-top: 25px;
+    padding-left: 31rem;
+}
+
+#rankingToggle {
+    padding-top: 20px;
+    padding-left: 21rem;
+}
+
+.loginButton {
+    position: absolute;
+    height: 50px;
+    width: 200px;
+    background-color: #a6d149;
+    border-color: #a6d149;
+    color: white;
+    font-weight: bold;
+    font-family: 'Cafe24Oneprettynight';
+    letter-spacing: 10px;
+    padding-left: 25px;
+    font-size: 28px;
+    border-radius: 20px;
+}
+
+#loginButtonArea {
+    padding-left: 2rem;
+    padding-top: 15px;
+}
+
+#myPageButtonArea {
+    width: 80px;
+    height: 80px;
+    align-items: center;
+    padding-right: 50px;
+    padding-left: 14rem;
+    padding-top: 5px;
+}
+
+#myPageButton {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: solid 4px #a6d149;
+}
+
+

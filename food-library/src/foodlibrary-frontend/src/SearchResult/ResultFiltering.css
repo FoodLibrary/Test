@@ -1,0 +1,59 @@
+
+.ResultFilteringButton{
+    margin : 2vw;
+    width: 20vw;
+    height: 4vw;
+    min-width: 130px;
+    max-width: 200px;
+    min-height: 25px;
+    max-height: 40px;
+    border: solid 1px rgba(73, 209, 83, 0.25);
+    background-color: rgba(59, 139, 0, 0.6);
+    border-radius: 50px;
+    font-family: 'NanumPen', cursive;
+    font-size: calc(10px + 1vw);
+    color: #ffffff;
+
+}
+
+.ResultFilteringLogo{
+    width : 2vw;
+    min-width: 20px;
+}
+
+.Filtering {
+    margin-left: 1vw;
+    margin-bottom: 2vw;
+    width: 95vw;
+    height: 35vw;
+    max-height: 300px;
+    border: solid 1px rgba(166, 209, 73, 0.75);
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 2vh;
+}
+
+
+.Filtering td{
+    border: solid 1px rgba(166, 209, 73, 0.75);
+}
+.Filtering th {
+    border: solid 1px rgba(166, 209, 73, 0.75);
+}
+
+
+.allergyFiltering{
+    font-size: 2vh;
+}
+.diseaseFiltering{
+    font-size: 2vh;
+}
+.allergyCheck{
+    margin-left: 15px;
+}
+
+.diseaseCheck{
+    margin-left: 15px;
+}
+

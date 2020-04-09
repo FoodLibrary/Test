@@ -1,0 +1,9 @@
+body {
+    background-color:  #fffde5;
+    font-family: 'NanumPen', cursive;
+}
+
+@font-face{
+    font-family:NanumPen;
+    src:url('Cafe24Oneprettynight.ttf');
+}

@@ -7,7 +7,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b86c5c21-8b8b-4a0e-a3bd-4a5bf3c0e943" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/Main/Cafe24Oneprettynight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/Main/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/Main/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/Ranking/Cafe24Oneprettynight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/Ranking/Ranking.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/Ranking/Ranking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SearchResult/Cafe24Oneprettynight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SearchResult/ProductList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SearchResult/ProductListStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SearchResult/ResultFiltering.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SearchResult/ResultFiltering.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SearchResult/ResultIndex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SearchResult/ResultIndex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SearchResult/SearchResult.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SearchResult/SearchResult.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/defaultDiv/RankingBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/defaultDiv/RankingBarStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/defaultDiv/TopBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/defaultDiv/TopBarStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/util/ImageResources.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/util/resultFiltering.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +68,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -29,12 +78,19 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="ProjectId" id="1ZzaZdHrSPYPH1l5EIhsXgnl1mT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
@@ -42,7 +98,12 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SearchResult" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,6 +116,17 @@
     <property name="project.structure.proportion" value="0.15136719" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="ts.external.directory.path" value="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\SearchResult" />
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\util" />
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\font&amp;img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\defaultDiv" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -67,6 +139,8 @@
     <configuration name="FoodLibraryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="food-library" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.foodlibrary.foodlibrary.FoodLibraryApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -231,6 +305,15 @@
             <expand>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Failed" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
@@ -244,49 +327,93 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b86c5c21-8b8b-4a0e-a3bd-4a5bf3c0e943" name="Default Changelist" comment="" />
+      <created>1585844432596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585844432596</updated>
+      <workItem from="1585844434222" duration="771000" />
+      <workItem from="1585999189689" duration="20000" />
+      <workItem from="1585999237900" duration="137000" />
+      <workItem from="1586152750629" duration="13455000" />
+      <workItem from="1586347853961" duration="26468000" />
+    </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="522" y="162" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585843075252">
-      <screen x="0" y="23" width="2048" height="1184" />
+    <state x="19" y="175" key="#Inspections" timestamp="1586153919968">
+      <screen x="0" y="0" width="1707" height="1027" />
     </state>
+    <state x="19" y="175" key="#Inspections/0.0.1707.1027@0.0.1707.1027" timestamp="1586153919968" />
+    <state x="435" y="121" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586168641717">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="435" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1586168641717" />
     <state x="694" y="157" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1585478963158" />
     <state x="522" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2048.1184@0.23.2048.1184" timestamp="1585843075252" />
-    <state width="1437" height="280" key="GridCell.Tab.0.bottom" timestamp="1585843080475">
-      <screen x="0" y="23" width="2048" height="1184" />
+    <state x="710" y="249" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585844583537">
+      <screen x="0" y="0" width="1707" height="1027" />
     </state>
+    <state x="710" y="249" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1585844583537" />
+    <state x="918" y="450" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585844604172">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="918" y="450" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1585844604172" />
+    <state x="572" y="124" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1586168443944">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="572" y="124" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1707.1027@0.0.1707.1027" timestamp="1586168443944" />
+    <state x="662" y="208" key="FileChooserDialogImpl" timestamp="1586165059325">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="662" y="208" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1586165059325" />
+    <state width="1227" height="275" key="GridCell.Tab.0.bottom" timestamp="1586403231868">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1227" height="275" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1586403231868" />
     <state width="718" height="280" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1585480392128" />
     <state width="1437" height="280" key="GridCell.Tab.0.bottom/0.23.2048.1184@0.23.2048.1184" timestamp="1585843080475" />
-    <state width="1437" height="280" key="GridCell.Tab.0.center" timestamp="1585843080475">
-      <screen x="0" y="23" width="2048" height="1184" />
+    <state width="1227" height="275" key="GridCell.Tab.0.center" timestamp="1586403231868">
+      <screen x="0" y="0" width="1707" height="1027" />
     </state>
+    <state width="1227" height="275" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1586403231868" />
     <state width="718" height="280" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1585480392127" />
     <state width="1437" height="280" key="GridCell.Tab.0.center/0.23.2048.1184@0.23.2048.1184" timestamp="1585843080475" />
-    <state width="1437" height="280" key="GridCell.Tab.0.left" timestamp="1585843080474">
-      <screen x="0" y="23" width="2048" height="1184" />
+    <state width="1227" height="275" key="GridCell.Tab.0.left" timestamp="1586403231868">
+      <screen x="0" y="0" width="1707" height="1027" />
     </state>
+    <state width="1227" height="275" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1586403231868" />
     <state width="718" height="280" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1585480392127" />
     <state width="1437" height="280" key="GridCell.Tab.0.left/0.23.2048.1184@0.23.2048.1184" timestamp="1585843080474" />
-    <state width="1437" height="280" key="GridCell.Tab.0.right" timestamp="1585843080475">
-      <screen x="0" y="23" width="2048" height="1184" />
+    <state width="1227" height="275" key="GridCell.Tab.0.right" timestamp="1586403231868">
+      <screen x="0" y="0" width="1707" height="1027" />
     </state>
+    <state width="1227" height="275" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1586403231868" />
     <state width="718" height="280" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1585480392128" />
     <state width="1437" height="280" key="GridCell.Tab.0.right/0.23.2048.1184@0.23.2048.1184" timestamp="1585843080475" />
-    <state width="481" height="280" key="GridCell.Tab.1.bottom" timestamp="1585478972108">
-      <screen x="0" y="23" width="1792" height="1028" />
+    <state width="279" height="275" key="GridCell.Tab.1.bottom" timestamp="1585845205894">
+      <screen x="0" y="0" width="1707" height="1027" />
     </state>
+    <state width="279" height="275" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1585845205894" />
     <state width="481" height="280" key="GridCell.Tab.1.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1585478972108" />
-    <state width="481" height="280" key="GridCell.Tab.1.center" timestamp="1585478972107">
-      <screen x="0" y="23" width="1792" height="1028" />
+    <state width="279" height="275" key="GridCell.Tab.1.center" timestamp="1585845205894">
+      <screen x="0" y="0" width="1707" height="1027" />
     </state>
+    <state width="279" height="275" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1585845205894" />
     <state width="481" height="280" key="GridCell.Tab.1.center/0.23.1792.1028@0.23.1792.1028" timestamp="1585478972107" />
-    <state width="481" height="280" key="GridCell.Tab.1.left" timestamp="1585478972107">
-      <screen x="0" y="23" width="1792" height="1028" />
+    <state width="279" height="275" key="GridCell.Tab.1.left" timestamp="1585845205894">
+      <screen x="0" y="0" width="1707" height="1027" />
     </state>
+    <state width="279" height="275" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1585845205894" />
     <state width="481" height="280" key="GridCell.Tab.1.left/0.23.1792.1028@0.23.1792.1028" timestamp="1585478972107" />
-    <state width="481" height="280" key="GridCell.Tab.1.right" timestamp="1585478972107">
-      <screen x="0" y="23" width="1792" height="1028" />
+    <state width="279" height="275" key="GridCell.Tab.1.right" timestamp="1585845205894">
+      <screen x="0" y="0" width="1707" height="1027" />
     </state>
+    <state width="279" height="275" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1585845205894" />
     <state width="481" height="280" key="GridCell.Tab.1.right/0.23.1792.1028@0.23.1792.1028" timestamp="1585478972107" />
     <state width="481" height="280" key="GridCell.Tab.2.bottom" timestamp="1585478972108">
       <screen x="0" y="23" width="1792" height="1028" />
@@ -304,6 +431,10 @@
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
     <state width="481" height="280" key="GridCell.Tab.2.right/0.23.1792.1028@0.23.1792.1028" timestamp="1585478972108" />
+    <state x="869" y="260" key="IDE.errors.dialog" timestamp="1586385560598">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="869" y="260" key="IDE.errors.dialog/0.0.1707.1027@0.0.1707.1027" timestamp="1586385560598" />
     <state x="609" y="142" key="NewModule_or_Project.wizard" timestamp="1585478210321">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
@@ -312,13 +443,35 @@
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
     <state x="485" y="23" key="SettingsEditor/0.23.1792.1028@0.23.1792.1028" timestamp="1585478216670" />
+    <state x="502" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586348108509">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="502" y="344" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1586348108509" />
     <state x="793" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585477378168">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
     <state x="793" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1792.1028@0.23.1792.1028" timestamp="1585477378168" />
+    <state x="556" y="199" width="574" height="709" key="dock-window-1" timestamp="1586374842907">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="556" y="199" width="574" height="709" key="dock-window-1/0.0.1707.1027@0.0.1707.1027" timestamp="1586374842907" />
+    <state x="699" y="77" width="574" height="709" key="dock-window-2" timestamp="1586403219453">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="699" y="77" width="574" height="709" key="dock-window-2/0.0.1707.1027@0.0.1707.1027" timestamp="1586403219453" />
     <state x="899" y="123" width="893" height="592" key="new project wizard" timestamp="1585478199314">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
     <state x="899" y="123" width="893" height="592" key="new project wizard/0.23.1792.1028@0.23.1792.1028" timestamp="1585478199314" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SearchResult/ProductList.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
