@@ -10,7 +10,6 @@ import TopBar from "./js/TopBar";
 function App() {
     return (
         <div>
-            <TopBar/>
         </div>
 
 );
