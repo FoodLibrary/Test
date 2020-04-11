@@ -1,13 +1,12 @@
 import React from 'react';
 import {
     ButtonDropdown,
-    DropdownToggle,
-    DropdownMenu,
-    DropdownItem,
-    Button,
     ButtonGroup,
-    DropdownContext
 } from 'reactstrap';
+import Button from "react-bootstrap/Button";
+import DropdownToggle from "react-bootstrap/DropdownToggle";
+import DropdownMenu from "react-bootstrap/DropdownMenu";
+import DropdownItem from "react-bootstrap/DropdownItem";
 
 export default class RankingBar extends React.Component {
     constructor(props) {
@@ -26,9 +25,9 @@ export default class RankingBar extends React.Component {
 
     render() {
         return (
-            <ButtonGroup >
+            <ButtonGroup className={"rankingToggleMenu"}>
                 <Button className={"rankingButton"}> 랭킹 </Button>
-                <ButtonDropdown isOpen={this.state.dropdownOpen} toggle={this.toggle}>
+                <ButtonDropdown addonType="append" isOpen={this.state.dropdownOpen} toggle={this.toggle}>
                     <DropdownToggle caret className={"rankingToggle"}>
                         실시간 검색어 순위
                     </DropdownToggle>
