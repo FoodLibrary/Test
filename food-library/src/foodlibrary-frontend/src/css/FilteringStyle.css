@@ -1,74 +1,36 @@
 .allergyCheck {
-    margin-left: 280px;
-    padding-top: 30px;
-    font-size: 30px;
-    font-family: 'Cafe24Oneprettynight';
-    font-weight: bold;
-}
-
-.allergy{
-    padding-left: 50px;
-    font-size: 20px;
-}
-
-.allergyNames {
-    padding-left: 5px;
-    font-weight: normal;
-}
-
-.secondRow {
-    margin-left: 115px;
-    margin-top: -30px;
+    font-family: Cafe24Oneprettynight;
+    font-size: 1.5vh;
+    margin-bottom: 1vh;
 }
 
 .diseaseCheck {
-    margin-left: 330px;
-    padding-top: 30px;
-    font-size: 30px;
-    font-family: 'Cafe24Oneprettynight';
-    font-weight: bold;
+    font-family: Cafe24Oneprettynight;
+    font-size: 1.5vh;
+    margin-bottom: 1vh;
 }
 
-.disease {
-    padding-left: 49px;
-    font-size: 20px;
+#allergyRow {
+    padding-bottom: 3vh;
 }
 
-.diseaseNames {
-    padding-left: 5px;
-    font-weight: normal;
+#allergyTitle {
+    padding-top:4vh;
+    margin-bottom: 2vh;
 }
 
-#filteringButtons {
-    padding-left : -40px;
-    margin-top: 30px;
+#allergyText {
+    font-size: 2vh;
 }
 
-#clearButtonArea {
-    padding-left: 1500px;
+#diseaseTitle {
+    margin-bottom: 2vh;
 }
 
-.clearButton {
-    padding: 10px 20px 10px 20px;
-    font-family: 'Cafe24Oneprettynight';
-    border-radius: 25px;
-    background-color: #8b8b8b;
-    color: white;
-    font-weight: bold;
-    font-size: 20px;
+#diseaseText {
+    font-size: 2.5vh;
 }
 
-#saveButtonArea {
-    padding-left: 10px;
-}
-
-.saveButton {
-    padding: 10px 22px 10px 24px;
-    font-family: 'Cafe24Oneprettynight';
-    border-radius: 25px;
-    background-color: #8b8b8b;
-    color: white;
-    font-weight: bold;
-    font-size: 20px;
-    letter-spacing: 3px;
+#allergyText {
+    font-size: 2.5vh;
 }
