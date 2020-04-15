@@ -13,64 +13,67 @@ hr{
 }
 
 .rankingLogo{
-    margin-left: 5vw;
-    margin-top: 1vh;
+    text-align: center;
     margin-bottom: 0;
-    font-size: 8vw;
+    font-size: 5vh;
     color: #a6d149;
 }
 .rankingImage{
-    width : 8vw;
+    width : 5vh;
+    height : 5vh;
 }
 .rankingKind{
     text-align: center;
 }
 .resultRanking{
-    border: 0px;
+    border: 0;
+    padding: 0;
     background-color :#fffde5;
     font-family: 'NanumPen', cursive;
-    font-size: calc(2vw + 3px);
+    font-size: 2vh;
     color : #a6d149;
 }
 
 .reviewRanking{
-    border: 0px;
+    border: 0;
+    padding: 0;
     background-color :#fffde5;
     font-family: 'NanumPen', cursive;
-    font-size: calc(2vw + 3px);
+    font-size: 2vh;
     color : #a6d149;
 }
 
 .sexRanking{
-    border: 0px;
+    border: 0;
+    padding: 0;
     background-color :#fffde5;
     font-family: 'NanumPen', cursive;
-    font-size: calc(2vw + 3px);
+    font-size: 2vh;
     color : #a6d149;
 }
 
 .ageRanking{
-    border: 0px;
+    border: 0;
+    padding: 0;
     background-color :#fffde5;
     font-family: 'NanumPen', cursive;
-    font-size: calc(2vw + 3px);
+    font-size: 2vh;
     color : #a6d149;
 }
 
 .kind{
-    margin : 2vw;
-    width : calc(30vw + 30px);
+    margin : 2vh;
     background-color :#fffde5;
     font-family: 'NanumPen', cursive;
-    font-size: calc(2vw + 10px);
+    font-size: 3.5vh;
     color : #a6d149;
     border-bottom: 1px solid #a6d149;
 }
 
 .nowRanking{
-    width : 5vw;
+    width : 3.5vh;
 }
 
 .logoImage{
-    width : 3vw;
+    width : 2vh;
 }

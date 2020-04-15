@@ -80,7 +80,7 @@ class Ranking extends Component {
                         <img
                             src="https://cdn.zeplin.io/5e62877178f87615c993cd42/assets/6399E055-ACA5-438A-AEFD-406B4F531372.png"
                             className="logoImage"/>
-                        실시간 순위
+                        실검 순위
                     </button>
                     <button className={"reviewRanking"} id="reviewRanking" onClick={this.handle}>
                         <img
