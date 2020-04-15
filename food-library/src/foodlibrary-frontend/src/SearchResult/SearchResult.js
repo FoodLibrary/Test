@@ -8,15 +8,15 @@ class SearchResult extends Component {
     render() {
         return (
             <Container >
-                <Row className="searchResultLogo" >
-                    <p className="p">
+                <Row className="searchResult" >
+                    <p className="searchResultLogo">
                         <img
                             src="https://cdn.zeplin.io/5e62877178f87615c993cd42/assets/5B01E484-17CF-4D9B-AB70-EC166E77CE79.png"
-                            width="20px"/>
+                            className = "searchResultImg"/>
                         검색 결과</p>
                 </Row>
-                <Row className="classification">
-                    <p className="p"> 대분류 > 소분류</p>
+                <Row className="classificationRow">
+                    <p className="classification"> 대분류 > 소분류</p>
                 </Row>
                 <Row className="resultSort">
                     정렬 :

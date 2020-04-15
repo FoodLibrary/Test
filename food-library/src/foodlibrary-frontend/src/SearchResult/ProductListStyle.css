@@ -1,9 +1,11 @@
 .productList {
-    margin: 0px;
-    width : 85vw;
-    height: 20vw;
+    margin: 0;
+    padding : 0;
+    width : 60vh;
+    height: 15vh;
     font-family: 'Cafe24Oneprettynight', cursive;
 }
+
 .productList td {
     border: solid 1px rgba(166, 209, 73, 0.75);
     padding: 0;
@@ -14,12 +16,17 @@
     width: 8%;
     padding: 0;
     margin : 0;
-    font-size: 45px;
+    font-size: 2vh;
+    border-top-color: #61dafb;
 }
-
+.heartAndThumbImages {
+    width: 4vh;
+    margin : 0;
+    padding: 0;
+}
 .indexAndButtonsContainer{
-    width: 8%;
-    font-size : 3vw;
+    width: 4vh;
+    font-size : 2vh;
     margin: 0;
     padding: 0;
 }
@@ -30,19 +37,17 @@
 }
 
 .foodPictureAreaCol{
-    width : 25%;
-    height: 100%;
-    padding : 0px;
-    margin : 0px;
+    width : 5vh;
+    height: 5vh;
+    padding : 0;
+    margin : 0;
 }
 
 .foodInfoAreaCol {
-    width : 66%;
-}
-.heartAndThumbImages {
-    width: 3vw;
+    width : 15vh;
+    padding : 0;
     margin : 0;
-    padding: 0;
 }
+
 
 
