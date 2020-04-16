@@ -1,5 +1,5 @@
 import React, { Component, useState } from 'react';
-import Navbar from 'react-bootstrap/Navbar'
+import Navbar from 'react-bootstrap/Navbar';
 import {Form, FormControl, Image} from "react-bootstrap";
 import Nav from "react-bootstrap/Nav";
 import Button from "react-bootstrap/Button";
