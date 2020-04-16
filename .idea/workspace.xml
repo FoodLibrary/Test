@@ -7,19 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b86c5c21-8b8b-4a0e-a3bd-4a5bf3c0e943" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SearchResult/SearchResult.js" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SearchResult/SearchResult.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index_BACKUP_159.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index_BASE_159.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index_LOCAL_159.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index_REMOTE_159.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/js/EditMemberInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/js/EditMemberInfo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/js/SignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/js/SignUp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/js/TopBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/js/TopBar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/util/ImageResources.js" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/util/ImageResources.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -292,7 +284,7 @@
       <workItem from="1586669539024" duration="2844000" />
       <workItem from="1586763092127" duration="5141000" />
       <workItem from="1586969435843" duration="1280000" />
-      <workItem from="1587019658092" duration="7410000" />
+      <workItem from="1587019658092" duration="7655000" />
     </task>
     <servers />
   </component>
