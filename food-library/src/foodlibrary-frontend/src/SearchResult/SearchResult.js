@@ -7,7 +7,7 @@ import ProductList from "./ProductList";
 class SearchResult extends Component {
     render() {
         return (
-            <Container >
+            <Container>
                 <Row className="searchResult" >
                     <p className="searchResultLogo">
                         <img
