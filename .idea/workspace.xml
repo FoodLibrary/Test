@@ -7,12 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b86c5c21-8b8b-4a0e-a3bd-4a5bf3c0e943" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index_BACKUP_159.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index_BASE_159.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index_LOCAL_159.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index_REMOTE_159.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/util/ImageResources.js" beforeDir="false" afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/util/ImageResources.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/EditMemberInfoPage/EditMemberInfo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/EditMemberInfoPage/EditMemberInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +21,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -43,7 +41,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -61,7 +58,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/sayo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/SignUpPage" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -77,13 +75,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\sayo" />
-      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\.idea" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src" />
-      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\font" />
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\SignUpPage" />
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\SearchResultPage" />
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\ReviewDetailPage" />
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\ReviewDefaultDiv" />
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\RankingPage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\ReviewDefaultDiv\js" />
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\ReviewDefaultDiv\css" />
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\ProductDefaultDiv\css" />
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\ProductDefaultDiv\js" />
+      <recent name="C:\Users\kuna\Documents\FoodLibrary\food-library\src\foodlibrary-frontend\src\ProductDefaultDiv" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -253,23 +257,6 @@
       <item itemvalue="Tomcat Server.Tomcat 9.0.30" />
     </list>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -285,57 +272,63 @@
       <workItem from="1586763092127" duration="5141000" />
       <workItem from="1586969435843" duration="1280000" />
       <workItem from="1587019658092" duration="7655000" />
+      <workItem from="1587351146586" duration="9228000" />
+      <workItem from="1587378113578" duration="5959000" />
+      <workItem from="1587391933058" duration="7604000" />
+      <workItem from="1587479125067" duration="771000" />
+      <workItem from="1587486311653" duration="687000" />
+      <workItem from="1587487417685" duration="5866000" />
+      <workItem from="1587497892569" duration="5117000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/food-library/src/foodlibrary-frontend/src/index.js" />
-      </list>
-    </option>
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="435" y="121" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586417880029">
+    <state x="435" y="121" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587359800649">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state x="435" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1586417880029" />
+    <state x="435" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1587359800649" />
     <state x="694" y="157" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1585478963158" />
     <state x="522" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2048.1184@0.23.2048.1184" timestamp="1585843075252" />
-    <state x="1011" y="260" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587024396867">
+    <state x="1011" y="260" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587499298665">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state x="1011" y="260" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1587024396867" />
+    <state x="1011" y="260" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1587499298665" />
+    <state x="972" y="399" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587356640390">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="972" y="399" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1707.1027@0.0.1707.1027" timestamp="1587356640390" />
     <state x="1061" y="272" key="FileChooserDialogImpl" timestamp="1587021465373">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="1061" y="272" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1587021465373" />
-    <state width="810" height="114" key="GridCell.Tab.0.bottom" timestamp="1587021086306">
+    <state width="857" height="111" key="GridCell.Tab.0.bottom" timestamp="1587499277989">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="810" height="114" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1587021086306" />
+    <state width="857" height="111" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1587499277989" />
     <state width="718" height="280" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1585480392128" />
     <state width="1437" height="280" key="GridCell.Tab.0.bottom/0.23.2048.1184@0.23.2048.1184" timestamp="1585843080475" />
-    <state width="810" height="114" key="GridCell.Tab.0.center" timestamp="1587021086306">
+    <state width="857" height="111" key="GridCell.Tab.0.center" timestamp="1587499277989">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="810" height="114" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1587021086306" />
+    <state width="857" height="111" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1587499277989" />
     <state width="718" height="280" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1585480392127" />
     <state width="1437" height="280" key="GridCell.Tab.0.center/0.23.2048.1184@0.23.2048.1184" timestamp="1585843080475" />
-    <state width="810" height="114" key="GridCell.Tab.0.left" timestamp="1587021086306">
+    <state width="857" height="111" key="GridCell.Tab.0.left" timestamp="1587499277989">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="810" height="114" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1587021086306" />
+    <state width="857" height="111" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1587499277989" />
     <state width="718" height="280" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1585480392127" />
     <state width="1437" height="280" key="GridCell.Tab.0.left/0.23.2048.1184@0.23.2048.1184" timestamp="1585843080474" />
-    <state width="810" height="114" key="GridCell.Tab.0.right" timestamp="1587021086306">
+    <state width="857" height="111" key="GridCell.Tab.0.right" timestamp="1587499277989">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="810" height="114" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1587021086306" />
+    <state width="857" height="111" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1587499277989" />
     <state width="718" height="280" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1585480392128" />
     <state width="1437" height="280" key="GridCell.Tab.0.right/0.23.2048.1184@0.23.2048.1184" timestamp="1585843080475" />
     <state width="481" height="280" key="GridCell.Tab.1.bottom" timestamp="1585478972108">
@@ -382,18 +375,34 @@
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
     <state x="485" y="23" key="SettingsEditor/0.23.1792.1028@0.23.1792.1028" timestamp="1585478216670" />
-    <state x="972" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1587019662701">
+    <state x="972" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1587484811108">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state x="972" y="338" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1587019662701" />
+    <state x="972" y="338" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1587484811108" />
     <state x="793" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585477378168">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
     <state x="793" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1792.1028@0.23.1792.1028" timestamp="1585477378168" />
-    <state x="391" y="0" width="574" height="709" key="dock-window-1" timestamp="1586763101320">
+    <state x="182" y="79" width="722" height="867" key="dock-window-1" timestamp="1587498663397">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state x="391" y="0" width="574" height="709" key="dock-window-1/0.0.1707.1027@0.0.1707.1027" timestamp="1586763101320" />
+    <state x="182" y="79" width="722" height="867" key="dock-window-1/0.0.1707.1027@0.0.1707.1027" timestamp="1587498663397" />
+    <state x="147" y="79" width="722" height="867" key="dock-window-2" timestamp="1587498663397">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="147" y="79" width="722" height="867" key="dock-window-2/0.0.1707.1027@0.0.1707.1027" timestamp="1587498663397" />
+    <state x="229" y="40" width="588" height="867" key="dock-window-3" timestamp="1587499255043">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="229" y="40" width="588" height="867" key="dock-window-3/0.0.1707.1027@0.0.1707.1027" timestamp="1587499255043" />
+    <state x="443" y="59" width="588" height="867" key="dock-window-4" timestamp="1587499255043">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="443" y="59" width="588" height="867" key="dock-window-4/0.0.1707.1027@0.0.1707.1027" timestamp="1587499255043" />
+    <state x="179" y="133" width="588" height="703" key="dock-window-5" timestamp="1587500594201">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="179" y="133" width="588" height="703" key="dock-window-5/0.0.1707.1027@0.0.1707.1027" timestamp="1587500594201" />
     <state x="899" y="123" width="893" height="592" key="new project wizard" timestamp="1585478199314">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
