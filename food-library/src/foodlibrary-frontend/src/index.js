@@ -3,50 +3,11 @@ import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'reactstrap';
-import Filtering from "./js/Filtering";
 import './index.css';
-import './css/TopBarStyle.css';
-import './css/FilteringStyle.css';
-import './css/SignUpStyle.css';
-import './css/MyPageStyles.css';
-import './css/RankingBarStyle.css';
-import SignUp from "./js/SignUp";
-import EditMemberInfo from "./js/EditMemberInfo";
-import MyPage from "./js/MyPage";
-import ReviewDetail from './Pages/ReviewDetail';
-import ReviewWrite from './Pages/ReviewWrite';
-import TopBar from "./js/TopBar";
+import TopBar from "./defaultDiv/js/TopBar";
 
-/*
-
-//리뷰 작성 화면
-ReactDOM.render(
-    <React.StrictMode>
-        <TopBar/>
-        <ReviewWrite/>
-    </React.StrictMode>,
-    document.getElementById('root')
-);
-
-*/
-
-/*
-//랭킹 화면
-import './Ranking/Ranking.css';
-import Ranking from './Ranking/Ranking';
-
-ReactDOM.render(
-    <React.StrictMode>
-    <TopBar/>
-        <Ranking />
-    </React.StrictMode>,
-    document.getElementById('root')
-);
-*/
-
-/*
 //메인화면
-import Main from './Main/Main'
+import Main from './MainPage/Main'
 
 ReactDOM.render(
     <React.StrictMode>
@@ -54,10 +15,49 @@ ReactDOM.render(
     </React.StrictMode>,
     document.getElementById('root')
 );
+/*
+//로그인 화면
+import LoginPage from './LoginPage/js/LoginPage';
+
+ReactDOM.render(
+    <React.StrictMode>
+        <TopBar/>
+        <LoginPage />
+    </React.StrictMode>,
+    document.getElementById('root')
+);
+*/
+
+/*
+//마이페이지
+import MyPage from "./MyPage/MyPage";
+
+ReactDOM.render(
+    <React.StrictMode>
+        <TopBar />
+        <MyPage/>
+    </React.StrictMode>,
+    document.getElementById('root')
+);
+*/
+
+/*
+//회원 정보 수정 화면
+import EditMemberInfo from "./EditMemberInfoPage/EditMemberInfo";
+
+ReactDOM.render(
+    <React.StrictMode>
+        <TopBar/>
+        <EditMemberInfo/>
+    </React.StrictMode>,
+    document.getElementById('root')
+);
 */
 
 /*
 //회원 가입 화면
+import SignUp from "./SignUpPage/SignUp";
+
 ReactDOM.render(
     <React.StrictMode>
         <TopBar/>
@@ -68,23 +68,8 @@ ReactDOM.render(
 */
 
 /*
-//로그인 화면
-import './index.css';
-import LoginPage from './sj/LoginPage';
-
-ReactDOM.render(
-    <React.StrictMode>
-    <TopBar/>
-        <LoginPage />
-    </React.StrictMode>,
-    document.getElementById('root')
-);
-
-*/
-
-/*
 //상품상세화면
-//import ProductPage from './sj/ProductPage';
+import ProductPage from './ProductPage/js/ProductPage';
 
 ReactDOM.render(
     <React.StrictMode>
@@ -94,19 +79,38 @@ ReactDOM.render(
     document.getElementById('root')
 );
 */
+
 /*
-//리뷰 상세 화면 
+//리뷰 상세 화면
+import ReviewDetail from './ReviewDetailPage/js/ReviewDetail';
+
 ReactDOM.render(
     <React.StrictMode>
         <ReviewDetail/>
     </React.StrictMode>,
     document.getElementById('root')
 );
+
 */
+
+/*
+//리뷰 작성 화면
+import ReviewWrite from './ReviewWritePage/js/ReviewWrite';
+
+ReactDOM.render(
+    <React.StrictMode>
+        <TopBar/>
+        <ReviewWrite/>
+    </React.StrictMode>,
+    document.getElementById('root')
+);
+*/
+
+/*
 //검색 결과 화면
-import './SearchResult/ResultIndex.css';
-import ResultFiltering from './SearchResult/ResultFiltering';
-import SearchResult from './SearchResult/SearchResult';
+import './SearchResultPage/css/ResultIndex.css';
+import ResultFiltering from './SearchResultPage/js/ResultFiltering';
+import SearchResult from './SearchResultPage/js/SearchResult';
 
 ReactDOM.render(
     <React.StrictMode>
@@ -116,6 +120,22 @@ ReactDOM.render(
     </React.StrictMode>,
     document.getElementById('root')
 );
+*/
+
+/*
+//랭킹 화면
+import Ranking from './RankingPage/Ranking';
+
+ReactDOM.render(
+    <React.StrictMode>
+        <TopBar/>
+        <Ranking />
+    </React.StrictMode>,
+    document.getElementById('root')
+);
+*/
+
+
 
 
 // If you want your app to work offline and load faster, you can change

@@ -17,7 +17,7 @@ code {
 @font-face {
     font-family: 'Cafe24Oneprettynight';
     font-style: normal;
-    src: url("../src/font/Cafe24Oneprettynight.ttf") format('truetype');
+    src: url("../src/util/Cafe24Oneprettynight.ttf") format('truetype');
 }
 
 .TitleButton {
