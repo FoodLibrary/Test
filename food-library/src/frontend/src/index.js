@@ -14,10 +14,10 @@ import './css/RankingBarStyle.css'
 import SignUp from "./js/SignUp";
 import EditMemberInfo from "./js/EditMemberInfo";
 import MyPage from "./js/MyPage";
+import App from "./App";
 ReactDOM.render(
     <React.StrictMode>
-        <TopBar/>
-        <SignUp/>
+        <App/>
     </React.StrictMode>,
     document.getElementById('root')
 );
