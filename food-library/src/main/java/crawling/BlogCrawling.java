@@ -2,13 +2,11 @@ package crawling;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import java.util.StringTokenizer;
 
 @RestController
 public class BlogCrawling {
@@ -18,7 +16,7 @@ public class BlogCrawling {
 
     //Properties
     public static final String WEB_DRIVER_ID = "webdriver.chrome.driver";
-    public static final String WEB_DRIVER_PATH = "chromedriver";
+    public static final String WEB_DRIVER_PATH = "/Users/exception/Desktop/졸업프로젝트/FoodLibrary/food-library/chromedriver";
 
     //크롤링 할 URL
     private String base_url;
@@ -81,7 +79,7 @@ public class BlogCrawling {
     }
 
     public HashMap<String, Integer> frequencyCount (List<String> list) {
-        HashMap<String, Integer> map = new HashMap<String, Integer>();
+        HashMap<String, Integer> map = new HashMap<>();
 
         for (int i = 0; i < list.size(); i++) {
             int x = 1;
