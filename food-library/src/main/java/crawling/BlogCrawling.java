@@ -45,9 +45,16 @@ public class BlogCrawling {
     public void getPost(ChromeDriver driver) {
         driver.get(base_url);
         List<WebElement> posts = driver.findElements(By.cssSelector(".sh_blog_title._sp_each_url._sp_each_title"));
+        int i = 0;
         for (WebElement post : posts) {
+            i++;
             post.click();
             getTag(driver);
+            if (i == posts.size() ) {
+               WebElement nextPage = driver.findElement(By.cssSelector(".next"));
+               nextPage.click();
+               getPost(driver);
+            }
         }
     }
 
@@ -57,10 +64,11 @@ public class BlogCrawling {
         String mainFrame = driver.findElement(By.cssSelector("#mainFrame")).getAttribute("src");
         driver.get(mainFrame);
         List<WebElement> tags = driver.findElements(By.cssSelector(".ell"));
-
         for(WebElement tag : tags) {
             System.out.println(tag.getText());
             tagsResult.add(tag.getText());
+
+
         }
         this.driver.close();
         this.driver.switchTo().window(windowHandles.get(0));
