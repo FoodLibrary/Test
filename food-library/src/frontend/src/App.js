@@ -5,7 +5,7 @@ function App() {
     const[message, setMessage] = useState("");
 
     useEffect(() => {
-        fetch('/api/foodlibrary')
+        fetch('/products')
             .then(response => response.text())
             .then(message => {
                 setMessage(message);
